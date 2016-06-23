@@ -1,5 +1,6 @@
 <?php
 
+/*
 $dbserver = '172.30.105.206';
 $dbuser   = 'userL2R';
 $dbpass   = 'v78OIQro1hF0TJrv';
@@ -20,3 +21,6 @@ while($row = $result->fetch_assoc())
 {
 echo $row['name'] . "<br />\n";
 }
+*/
+
+phpinfo();
