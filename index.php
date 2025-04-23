@@ -1,9 +1,9 @@
 <?php
 
 /*
-$dbserver = '172.30.105.206';
-$dbuser   = 'userL2R';
-$dbpass   = 'v78OIQro1hF0TJrv';
+$dbserver = '192.168.1.1';
+$dbuser   = 'user';
+$dbpass   = 'pass';
 $dbport   = '3306';
 $dbname   = 'sampledb';
 
